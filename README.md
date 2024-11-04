@@ -1,2 +1,2 @@
-# Milktea-Website-Draft-
+# Personal-Website-Draft-
 This is my Website Structure
